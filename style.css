@@ -117,7 +117,7 @@ header {
 }
 
 #hero_img {
-    background-image: url(photo/GMS_img1.jpg);
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/29/09/10/man-1868632_1280.jpg);
     /* background-size:contain; */
     background-size: cover;
     height: 1300px;
@@ -695,4 +695,5 @@ input:focus {
 .foot_end span {
     display: block;
     text-align: center;
+
 }
